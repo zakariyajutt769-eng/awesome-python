@@ -294,7 +294,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [try](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
 * CLI Enhancements
     * [httpie](https://github.com/httpie/cli) - A command line HTTP client, a user-friendly cURL replacement.
-    * [iredis](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
+     [iredis](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
     * [litecli](https://github.com/dbcli/litecli) - SQLite CLI with autocompletion and syntax highlighting.
     * [mycli](https://github.com/dbcli/mycli) - MySQL CLI with autocompletion and syntax highlighting.
     * [pgcli](https://github.com/dbcli/pgcli) - PostgreSQL CLI with autocompletion and syntax highlighting.
@@ -914,7 +914,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
 * [RDKit](http://www.rdkit.org/) - Cheminformatics and Machine Learning Software.
 * [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
-* [SimPy](https://gitlab.com/team-simpy/simpy) -  A process-based discrete-event simulation framework.
+*juttadnanzafar@gmail.com [SimPy](https://gitlab.com/team-simpy/simpy) -  A process-based discrete-event simulation framework.
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 * [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 * [Zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
